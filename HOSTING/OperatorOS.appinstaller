@@ -2,14 +2,14 @@
 <AppInstaller
   xmlns="http://schemas.microsoft.com/appx/appinstaller/2018"
   Version="1.0.0.0"
-  Uri="https://chefferyexperience.github.io/OperatorOS/OperatorOS.appinstaller">
+  Uri="https://chefferyexperience.github.io/OperatorOSPages/OperatorOS.appinstaller">
 
   <MainPackage
     Name="com.chefferyexperience.operatoros"
     Publisher="CN=Cheffery Experience"
     Version="1.0.0.0"
     ProcessorArchitecture="x64"
-    Uri="https://chefferyexperience.github.io/OperatorOS/OperatorOS_1.0.0.0_x64.msix" />
+    Uri="https://chefferyexperience.github.io/OperatorOSPages/OperatorOS_1.0.0.0_x64.msix" />
 
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="4" />
